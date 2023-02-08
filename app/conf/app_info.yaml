@@ -1,0 +1,12 @@
+title: "FastApi Template"
+description: "App description for Swagger UI"
+version: "0.0.1"
+contact:
+  name: "Jeremiah Carlson"
+  email: "JohnDoe@gmail.com"
+tags:
+  - name: Base
+    description: This is a description for an enpoint group within Swagger UI.
+    externalDocs:
+      description: MyTemplate
+      url: https://github.com/jeremiah-carlson/fastapi_template
